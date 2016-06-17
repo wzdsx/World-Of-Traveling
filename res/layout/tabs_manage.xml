@@ -30,7 +30,7 @@
             android:layout_height="16.0dp"
             android:gravity="center"
             android:text="@string/home_tabs"
-            android:textColor="@color/action_bar"
+             android:textColor="@color/text_color_light_gray"
             android:textSize="13.0sp" />
     </LinearLayout>
 
